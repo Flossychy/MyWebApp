@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My First Azure Web App</title>
+  <title>My First Azure Web App!</title>
 </head>
 <body>
   <h1>Hello Azure!</h1>
