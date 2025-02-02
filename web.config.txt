@@ -1,0 +1,13 @@
+<configuration>
+  <system.webServer>
+    <defaultDocument>
+      <files>
+        <clear />
+        <add value="index.html" />
+      </files>
+    </defaultDocument>
+    <staticContent>
+      <mimeMap fileExtension=".html" mimeType="text/html" />
+    </staticContent>
+  </system.webServer>
+</configuration>
